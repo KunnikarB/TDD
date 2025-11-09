@@ -42,6 +42,15 @@ This is a practice project to learn Test-Driven Development (TDD) using JavaScri
 
 <img width="294" height="175" alt="shoppngCart" src="https://github.com/user-attachments/assets/49e1a658-f7f4-44d8-b493-cc796cc3c0c8" />
 
+### 🌸 Array Uniquer 🌸
+- Removes duplicate values from an array of numbers.
+  - Test 1: Return original array if no duplicates.
+  - Test 2: Return array with only unique values. ([1, 1, 2, 3, 2] return [1, 2, 3]
+  - Test 3: Handle and remove multiple sequential duplicates. ([5, 5, 5] return 5)
+
+<img width="294" height="175" alt="arrayUniquer" src="https://github.com/user-attachments/assets/0567cfab-557a-4952-b954-9453b0f8c71c" />
+
+
 
 
 
