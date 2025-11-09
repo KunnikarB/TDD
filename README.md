@@ -50,6 +50,13 @@ This is a practice project to learn Test-Driven Development (TDD) using JavaScri
 
 <img width="294" height="175" alt="arrayUniquer" src="https://github.com/user-attachments/assets/0567cfab-557a-4952-b954-9453b0f8c71c" />
 
+### 🌸 String Calculator 🌸
+- Sum numbers provided in a comma-separated string.
+  - Test 1: Return 0 for empty string.
+  - Test 2: Return the number itself for single input.
+  - Test 3: Return sum for two numbers.
+
+<img width="308" height="181" alt="stringCalculator" src="https://github.com/user-attachments/assets/bb8e27e5-56e1-4483-b862-f861db5d3223" />
 
 
 
