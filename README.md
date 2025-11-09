@@ -25,3 +25,13 @@ This is a practice project to learn Test-Driven Development (TDD) using JavaScri
   - Test 3. : Test multiple dates to ensure generic logic.
 
 <img width="304" height="160" alt="DateFormatter" src="https://github.com/user-attachments/assets/de15f0e1-d9fc-4f79-b399-fdebdf30a69a" />
+
+### 🌸 Password Validator 🌸
+- Validate a password based on length and containing number.
+  - Test 1: Return false if the password is less than 8 characters long.
+  - Test 2: Return false if the password does not contain at least one number.
+  - Test 3: Return true if the password is 8+ characters and contains at least one number. 
+
+<img width="292" height="165" alt="passwordValidator" src="https://github.com/user-attachments/assets/a2f2c1bc-3c22-4e18-bc11-a82a56b72156" />
+
+
