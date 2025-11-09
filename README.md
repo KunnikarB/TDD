@@ -34,4 +34,14 @@ This is a practice project to learn Test-Driven Development (TDD) using JavaScri
 
 <img width="292" height="165" alt="passwordValidator" src="https://github.com/user-attachments/assets/a2f2c1bc-3c22-4e18-bc11-a82a56b72156" />
 
+### 🌸 Shopping Cart 🌸
+- Calculate the total cost of a list of items (price * quantity).
+  - Test 1: Return 0 for an empty array input.
+  - Test 2: Return total cost of a single item.
+  - Test 3: Return total cost for multiple items.
+
+<img width="294" height="175" alt="shoppngCart" src="https://github.com/user-attachments/assets/49e1a658-f7f4-44d8-b493-cc796cc3c0c8" />
+
+
+
 
